@@ -1,3 +1,41 @@
+body{
+  background-color:#808080;
+  
+  font-family:serif;
+}
+li{
+  list-style: none;
+}
+header{
+  background-color: #000;
+  height:60px;
+  margin:0px;
+  color:#808080;
+}
+.header-logo{
+  float:left;
+  font-size:20px;
+  padding:20px 10px;
+  margin:0px;
+}
+header li{
+  float:left;
+  font-size:10px;
+  padding:20px 40px;
+  color:#808080;
+}
 .title {
-    color: #02ccba;
+    color: #000;
+    font: size 30px;
+    padding: 10px;
   }
+h2{
+  color:#000;
+  font-size:20px;
+  padding:10px;
+  border-bottom：5px solid #c0c0c0;
+}
+p{
+  color:#000;
+  font-size:13px;
+}
